@@ -11,7 +11,7 @@ python = "^3.6.2"
 networkx = "^2.5.1"
 nptyping = "^1.4.4"
 numpy = "^1.19.5"
-open3d = "^0.14.1"
+open3d = "^0.19.0"
 scikit-learn = "^0.24.2"
 
 [tool.poetry.dev-dependencies]
